@@ -1,0 +1,14 @@
+
+body {background-color:#000;
+	  font-family:arial;
+	  font-size:14px;
+	  text-align:justify;
+	  color:#fff;}
+	  
+#conteudo {width:80%;
+		   margin:auto;
+		   background-color:#A9A9A9;
+		   padding:10px;
+		   border-radius:20px;
+		   border:solid #800 4px;
+		   height:auto;}
